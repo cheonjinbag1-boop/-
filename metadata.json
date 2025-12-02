@@ -1,0 +1,5 @@
+{
+  "name": "여러문제 단계적풀이.답은 생략",
+  "description": "An interactive math problem content generator using Gemini 3.0. Upload problems and solutions to generate high-quality HTML presentations.",
+  "requestFramePermissions": []
+}
